@@ -33,12 +33,15 @@ Users are encourage to create their own Walkthrus if desired to help others thro
 
 Unfortunately Apple's xCode is only available on iOS products therefore Windows deveolpment is not available.
 ```
-To create your own Walkthru simply create json file following the outline below, with each object being a single step which can contain up to 25 different photos.
+To create your own Walkthru simply create json file following the outline below, 
+with each object being a single step which can contain up to 25 different photos.
 Place premade JSON into ./multiIdentify/InstructionSets/
 ```
 
 ```
-Then add pictures of desired process that will act as images for the app to recognize during the process to indivdual AR Resource Groups for each step. File name format is listed below, with all folders placed into ./multiIdentify/assets.xcassets/
+Then add pictures of desired process that will act as images for the app to recognize
+during the process to indivdual AR Resource Groups for each step. File name format 
+is listed below, with all folders placed into ./multiIdentify/assets.xcassets/
 ```
 
 ```
