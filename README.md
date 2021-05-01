@@ -1,5 +1,7 @@
-# WalkThru
+# Walkthru
 > An iOS AR instruction manual app 
+> 
+![Header For Walkthru](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/wordart.PNG?raw=true)
 
 Walkthru is an iOS app taking advantage of Apple's ARKit 3 to recognize images and allow users to complete complex tasks. Walkthru was designed
 for Oregon State University's Computer Science Senior Capstone project. To view the engineering expo page for Walkthru click here (Add Link when available).
@@ -9,7 +11,6 @@ user to keep track of progress as well as ensuring quality of completion. Walkth
 however, it quickly become evident that the powers of image recognition could allow for many different types of processes to be made into a Walkthru. Users use their iPhone camera to allow for image recognition of critical objects on each step. Once an object is recognized its critical areas are highlighted and specific instructions are given to help the user. Through Apple’s ARKit-3 a coordinate system allows for multiple object recognition and a seamless AR experience while guiding a user through a Walkthru. Have you ever been stumped by the infamous IKEA construction instructions? If so, Walkthru is the app for you! Walkthru is focused on thorough step-by-step instructions ensuring users can complete tasks no matter the experience.
 
 
-![JSON format](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/wordart.PNG?raw=true)
 
 ## Installation
 
