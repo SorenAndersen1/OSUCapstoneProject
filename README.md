@@ -1,7 +1,7 @@
 # Walkthru
 > An iOS AR instruction manual app 
 > 
-![Header For Walkthru](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/wordart.PNG?raw=true)
+![Header For Walkthru](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/wordart.png?raw=true)
 
 Walkthru is an iOS app taking advantage of Apple's ARKit 3 to recognize images and allow users to complete complex tasks. Walkthru was designed
 for Oregon State University's Computer Science Senior Capstone project. To view the engineering expo page for Walkthru click here (Add Link when available).
