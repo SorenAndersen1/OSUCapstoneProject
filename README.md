@@ -26,6 +26,10 @@ For further instructions see [Apple's Documentation](https://developer.apple.com
 Here are some example images from users completing a process using Walkthru. As of now there are 3 preprogrammed WalkThrus:
 Making a PeanutButter and Jelly sandwich, setting up Cadoo Deluxe Edition, and replacing the air filter on 2007 Kia Rondo.
 Users are encourage to create their own Walkthrus if desired to help others through complex tasks, check below in Development setup for further instructions.
+![Cadoo Image 1](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/cadoo1.PNG?raw=true)
+![Cadoo Image 2](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/cadoo2.PNG?raw=true)
+![Air Filter Image 1](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/AirFilter1.PNG?raw=true)
+![Air Filter Image 2](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/AirFilter2.PNG?raw=true)
 
 
 
@@ -37,12 +41,14 @@ To create your own Walkthru simply create json file following the outline below,
 with each object being a single step which can contain up to 25 different photos.
 Place premade JSON into ./multiIdentify/InstructionSets/
 ```
+![JSON format](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/screenshotcodeCapstone.PNG?raw=true)
 
 ```
 Then add pictures of desired process that will act as images for the app to recognize
 during the process to indivdual AR Resource Groups for each step. File name format 
 is listed below, with all folders placed into ./multiIdentify/assets.xcassets/
 ```
+![File Format](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/ARFormat.PNG?raw=true)
 
 ```
 Once completed follow installation instructions to install on a local device.
@@ -56,13 +62,16 @@ Once completed follow installation instructions to install on a local device.
 ## Credit 
 
 WalkThru is an App made for Oregon State University's senior Capstone Project course. Walkthru was created by 3 people: Soren Andersen, Claire Swanson, and Nowlen Webb. Claire focused on the classes necessary to develop the Walkthrus such as Step.Swift and InstructionText.Swift as well as the conversion to use JSON to store the premade Walkthru information. Soren developed all Walkthrus and the image recognition system, some of his code can be seen below. Nowlen designed all screens and developed the entire UI. See the meta section for each developers Github.
+![Soren's Code](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/SorenCode.PNG?raw=true)
 
 
 
 ## Meta
 
 Soren Andersen – [SorenAndersen1](https://github.com/SorenAndersen1) – andesore@oregonstate.edu
+
 Claire Swanson – [claireswn8](https://github.com/claireswn8) – swanscol@oregonstate.edu 
+
 Nowlen Webb – [NowlenWebb](https://github.com/NowlenWebb) – webbjos@oregonstate.edu 
 
 For more information contact Soren Andersen by email or on [Linked In](https://www.linkedin.com/in/soren-andersen-556492184/)
@@ -75,4 +84,5 @@ For more information contact Soren Andersen by email or on [Linked In](https://w
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+![Original Project Github](https://github.com/SorenAndersen1/capstoneproject/tree/main)
 ![Readme.md Formatting](https://github.com/dbader/readme-template)
