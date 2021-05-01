@@ -30,7 +30,7 @@ Users are encourage to create their own Walkthrus if desired to help others thro
 ![Cadoo Image 1](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/cadoo1.PNG?raw=true)
 ![Cadoo Image 2](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/cadoo2.PNG?raw=true)
 ![Air Filter Image 1](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/AirFilter1.PNG?raw=true)
-![Air Filter Image 2](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/AirFilter2.PNG?raw=true)
+![Air Filter Image 2](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/AirFIlter2.PNG?raw=true)
 
 
 
