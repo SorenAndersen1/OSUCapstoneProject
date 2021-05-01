@@ -42,7 +42,7 @@ To create your own Walkthru simply create json file following the outline below,
 with each object being a single step which can contain up to 25 different photos.
 Place premade JSON into ./multiIdentify/InstructionSets/
 ```
-![JSON format](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/wordart.png?raw=true)
+![JSON format](https://github.com/SorenAndersen1/OSUCapstoneProject/blob/main/images/screenshotcodeCapstone.PNG?raw=true)
 
 ```
 Then add pictures of desired process that will act as images for the app to recognize
